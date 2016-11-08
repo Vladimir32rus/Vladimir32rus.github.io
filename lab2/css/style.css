@@ -33,6 +33,11 @@ hr.hrline
     height: 1px;
     background-color: #808080;
 }
+image.logo
+{
+    text-align: left;
+    vertical-align: middle;
+}
 td.authorization
 {
     text-align: center;
